@@ -1,0 +1,9 @@
+spidev
+RPi.GPIO
+pillow
+embit
+qrcode
+imutils
+pyzbar
+argparse
+imutils
